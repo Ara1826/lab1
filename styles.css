@@ -1,0 +1,13 @@
+.radio-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 столбца одинаковой ширины */
+    gap: 5px; /* Расстояние между элементами */
+    justify-items: center; /* Центрирование по горизонтали */
+}
+
+.radio-grid label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px;
+}
