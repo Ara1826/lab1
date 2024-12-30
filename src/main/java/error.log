@@ -1,0 +1,314 @@
+[Tue Sep 10 01:28:12.008840 2024] [log_config:error] [pid 21165] (13)Permission denied: AH00649: could not open transfer log file /home/studs/s408490/httpd-root/access.log.
+AH00015: Unable to open logs
+[Tue Sep 10 01:32:49.371979 2024] [fastcgi:error] [pid 90351] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Tue Sep 10 01:32:49.372010 2024] [fastcgi:error] [pid 90351] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Tue Sep 10 01:32:49.382233 2024] [fastcgi:error] [pid 90443] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Tue Sep 10 01:32:49.382269 2024] [fastcgi:error] [pid 90443] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Tue Sep 10 01:32:49.382853 2024] [:notice] [pid 90450] FastCGI: process manager initialized (pid 90450)
+[Tue Sep 10 01:32:49.382898 2024] [ssl:warn] [pid 90443] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Sep 10 01:32:49.384729 2024] [mpm_prefork:notice] [pid 90443] AH00163: Apache/2.4.62 (FreeBSD) mod_fastcgi/mod_fastcgi-SNAP-0910052141 OpenSSL/3.0.14 configured -- resuming normal operations
+[Tue Sep 10 01:32:49.384767 2024] [core:notice] [pid 90443] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/fcgi-bin/httpd.conf'
+[Tue Sep 10 05:00:00.317899 2024] [mpm_prefork:notice] [pid 90443] AH00169: caught SIGTERM, shutting down
+[Thu Sep 12 02:08:25.717951 2024] [fastcgi:error] [pid 99490] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Sep 12 02:08:25.739866 2024] [fastcgi:error] [pid 99490] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Sep 12 02:08:25.751176 2024] [fastcgi:error] [pid 99681] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Sep 12 02:08:25.751213 2024] [fastcgi:error] [pid 99681] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Sep 12 02:08:25.751800 2024] [:notice] [pid 99685] FastCGI: process manager initialized (pid 99685)
+[Thu Sep 12 02:08:25.751829 2024] [ssl:warn] [pid 99681] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Sep 12 02:08:25.753738 2024] [mpm_prefork:notice] [pid 99681] AH00163: Apache/2.4.62 (FreeBSD) mod_fastcgi/mod_fastcgi-SNAP-0910052141 OpenSSL/3.0.14 configured -- resuming normal operations
+[Thu Sep 12 02:08:25.753782 2024] [core:notice] [pid 99681] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/fcgi-bin/httpd.conf'
+[Thu Sep 12 02:15:29.984655 2024] [mpm_prefork:notice] [pid 99681] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 02:44:13.452373 2024] [fastcgi:error] [pid 48052] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 02:44:13.478871 2024] [fastcgi:error] [pid 48052] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 02:44:13.528169 2024] [ssl:warn] [pid 48053] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:44:13.547376 2024] [fastcgi:error] [pid 48053] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 02:44:13.547453 2024] [fastcgi:error] [pid 48053] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 02:44:13.548839 2024] [:notice] [pid 48054] FastCGI: process manager initialized (pid 48054)
+[Thu Oct 10 02:44:13.552111 2024] [mpm_prefork:notice] [pid 48053] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 02:44:13.552169 2024] [core:notice] [pid 48053] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 02:48:13.510110 2024] [mpm_prefork:notice] [pid 48053] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 02:48:13.597415 2024] [ssl:warn] [pid 48053] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:48:13.616361 2024] [fastcgi:error] [pid 48053] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 02:48:13.616429 2024] [fastcgi:error] [pid 48053] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 02:48:13.617792 2024] [:notice] [pid 48514] FastCGI: process manager initialized (pid 48514)
+[Thu Oct 10 02:48:13.620844 2024] [mpm_prefork:notice] [pid 48053] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 02:48:13.620894 2024] [core:notice] [pid 48053] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 02:50:35.172065 2024] [mpm_prefork:notice] [pid 48053] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 02:50:35.259519 2024] [ssl:warn] [pid 48053] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:50:35.278441 2024] [fastcgi:error] [pid 48053] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 02:50:35.278507 2024] [fastcgi:error] [pid 48053] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 02:50:35.279874 2024] [:notice] [pid 48910] FastCGI: process manager initialized (pid 48910)
+[Thu Oct 10 02:50:35.282953 2024] [mpm_prefork:notice] [pid 48053] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 02:50:35.282997 2024] [core:notice] [pid 48053] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:06:38.547572 2024] [mpm_prefork:notice] [pid 48053] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 03:06:38.634796 2024] [ssl:warn] [pid 48053] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:06:38.653843 2024] [fastcgi:error] [pid 48053] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:06:38.653897 2024] [fastcgi:error] [pid 48053] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:06:38.655239 2024] [:notice] [pid 51334] FastCGI: process manager initialized (pid 51334)
+[Thu Oct 10 03:06:38.658355 2024] [mpm_prefork:notice] [pid 48053] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:06:38.658402 2024] [core:notice] [pid 48053] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:09:50.173250 2024] [mpm_prefork:notice] [pid 48053] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 03:09:50.258348 2024] [ssl:warn] [pid 48053] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:09:50.277266 2024] [fastcgi:error] [pid 48053] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:09:50.277321 2024] [fastcgi:error] [pid 48053] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:09:50.278676 2024] [:notice] [pid 51881] FastCGI: process manager initialized (pid 51881)
+[Thu Oct 10 03:09:50.281825 2024] [mpm_prefork:notice] [pid 48053] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:09:50.281870 2024] [core:notice] [pid 48053] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:14:02.088116 2024] [mpm_prefork:notice] [pid 48053] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:14:05.280922 2024] [fastcgi:error] [pid 52710] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:14:05.281043 2024] [fastcgi:error] [pid 52710] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:14:05.328232 2024] [ssl:warn] [pid 52716] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:14:05.347977 2024] [fastcgi:error] [pid 52716] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:14:05.348024 2024] [fastcgi:error] [pid 52716] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:14:05.349237 2024] [:notice] [pid 52738] FastCGI: process manager initialized (pid 52738)
+[Thu Oct 10 03:14:05.352772 2024] [mpm_prefork:notice] [pid 52716] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:14:05.352828 2024] [core:notice] [pid 52716] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:22:11.328980 2024] [mpm_prefork:notice] [pid 52716] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 03:22:11.414670 2024] [ssl:warn] [pid 52716] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:22:11.434058 2024] [fastcgi:error] [pid 52716] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:22:11.434123 2024] [fastcgi:error] [pid 52716] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:22:11.435551 2024] [:notice] [pid 53892] FastCGI: process manager initialized (pid 53892)
+[Thu Oct 10 03:22:11.438765 2024] [mpm_prefork:notice] [pid 52716] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:22:11.438812 2024] [core:notice] [pid 52716] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:30:26.764052 2024] [mpm_prefork:notice] [pid 52716] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:32:47.650521 2024] [fastcgi:error] [pid 56483] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:32:47.650658 2024] [fastcgi:error] [pid 56483] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:32:47.695817 2024] [ssl:warn] [pid 56484] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:32:47.714729 2024] [fastcgi:error] [pid 56484] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:32:47.714793 2024] [fastcgi:error] [pid 56484] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:32:47.716028 2024] [:notice] [pid 56505] FastCGI: process manager initialized (pid 56505)
+[Thu Oct 10 03:32:47.719489 2024] [mpm_prefork:notice] [pid 56484] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:32:47.719556 2024] [core:notice] [pid 56484] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:33:06.332733 2024] [authz_core:error] [pid 56508] [client 127.0.0.1:10911] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:33:06.429425 2024] [authz_core:error] [pid 56508] [client 127.0.0.1:10911] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:33:12.244244 2024] [authz_core:error] [pid 56511] [client 127.0.0.1:35655] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:33:12.344550 2024] [authz_core:error] [pid 56511] [client 127.0.0.1:35655] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:33:41.352021 2024] [authz_core:error] [pid 56516] [client 127.0.0.1:55882] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:33:41.456774 2024] [authz_core:error] [pid 56516] [client 127.0.0.1:55882] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:35:08.882419 2024] [authz_core:error] [pid 56508] [client 127.0.0.1:20425] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:35:09.000385 2024] [authz_core:error] [pid 56508] [client 127.0.0.1:20425] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:35:30.754691 2024] [authz_core:error] [pid 56515] [client 127.0.0.1:21180] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:35:30.888512 2024] [authz_core:error] [pid 56515] [client 127.0.0.1:21180] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:37:36.593050 2024] [authz_core:error] [pid 56625] [client 127.0.0.1:16082] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:37:36.747976 2024] [authz_core:error] [pid 56625] [client 127.0.0.1:16082] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:37:50.884979 2024] [authz_core:error] [pid 56559] [client 127.0.0.1:16047] AH01630: client denied by server configuration: /www
+[Thu Oct 10 03:37:51.016913 2024] [authz_core:error] [pid 56559] [client 127.0.0.1:16047] AH01630: client denied by server configuration: /www, referer: http://localhost:39872/
+[Thu Oct 10 03:38:52.629612 2024] [mpm_prefork:notice] [pid 56484] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:39:28.835694 2024] [fastcgi:error] [pid 58874] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:39:28.835827 2024] [fastcgi:error] [pid 58874] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:39:28.883025 2024] [ssl:warn] [pid 58881] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:39:28.902557 2024] [fastcgi:error] [pid 58881] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:39:28.902618 2024] [fastcgi:error] [pid 58881] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:39:28.903897 2024] [:notice] [pid 58903] FastCGI: process manager initialized (pid 58903)
+[Thu Oct 10 03:39:28.907425 2024] [mpm_prefork:notice] [pid 58881] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:39:28.907490 2024] [core:notice] [pid 58881] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:41:57.776093 2024] [mpm_prefork:notice] [pid 58881] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 03:41:57.868965 2024] [ssl:warn] [pid 58881] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:41:57.887837 2024] [fastcgi:error] [pid 58881] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:41:57.887894 2024] [fastcgi:error] [pid 58881] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:41:57.889324 2024] [:notice] [pid 59674] FastCGI: process manager initialized (pid 59674)
+[Thu Oct 10 03:41:57.892591 2024] [mpm_prefork:notice] [pid 58881] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:41:57.892636 2024] [core:notice] [pid 58881] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:43:08.418968 2024] [mpm_prefork:notice] [pid 58881] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:43:11.632879 2024] [fastcgi:error] [pid 60318] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:43:11.633053 2024] [fastcgi:error] [pid 60318] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:43:11.678156 2024] [ssl:warn] [pid 60319] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:43:11.697089 2024] [fastcgi:error] [pid 60319] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:43:11.697150 2024] [fastcgi:error] [pid 60319] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:43:11.698377 2024] [:notice] [pid 60339] FastCGI: process manager initialized (pid 60339)
+[Thu Oct 10 03:43:11.701715 2024] [mpm_prefork:notice] [pid 60319] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:43:11.701777 2024] [core:notice] [pid 60319] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:44:40.525438 2024] [mpm_prefork:notice] [pid 60319] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:44:41.308938 2024] [fastcgi:error] [pid 61133] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:44:41.309074 2024] [fastcgi:error] [pid 61133] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:44:41.357439 2024] [ssl:warn] [pid 61134] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:44:41.376707 2024] [fastcgi:error] [pid 61134] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:44:41.376769 2024] [fastcgi:error] [pid 61134] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:44:41.378067 2024] [:notice] [pid 61155] FastCGI: process manager initialized (pid 61155)
+[Thu Oct 10 03:44:41.381629 2024] [mpm_prefork:notice] [pid 61134] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:44:41.381685 2024] [core:notice] [pid 61134] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:47:29.601027 2024] [mpm_prefork:notice] [pid 61134] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 03:47:31.327622 2024] [fastcgi:error] [pid 61937] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:47:31.327739 2024] [fastcgi:error] [pid 61937] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:47:31.376683 2024] [ssl:warn] [pid 61938] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:47:31.395965 2024] [fastcgi:error] [pid 61938] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 03:47:31.396022 2024] [fastcgi:error] [pid 61938] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 03:47:31.397356 2024] [:notice] [pid 61961] FastCGI: process manager initialized (pid 61961)
+[Thu Oct 10 03:47:31.400802 2024] [mpm_prefork:notice] [pid 61938] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 03:47:31.400851 2024] [core:notice] [pid 61938] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 03:47:49.493237 2024] [fastcgi:error] [pid 61969] (61)Connection refused: [client 127.0.0.1:35177] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/
+[Thu Oct 10 03:47:49.493344 2024] [fastcgi:error] [pid 61969] [client 127.0.0.1:35177] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/
+[Thu Oct 10 05:00:00.471519 2024] [mpm_prefork:notice] [pid 61938] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 13:35:57.923884 2024] [fastcgi:error] [pid 30867] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:35:57.943209 2024] [fastcgi:error] [pid 30867] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:35:57.966294 2024] [ssl:warn] [pid 30868] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 13:35:57.983364 2024] [fastcgi:error] [pid 30868] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:35:57.983422 2024] [fastcgi:error] [pid 30868] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:35:57.984796 2024] [:notice] [pid 30869] FastCGI: process manager initialized (pid 30869)
+[Thu Oct 10 13:35:57.988001 2024] [mpm_prefork:notice] [pid 30868] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 13:35:57.988043 2024] [core:notice] [pid 30868] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 13:40:57.868199 2024] [mpm_prefork:notice] [pid 30868] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 13:40:57.898110 2024] [ssl:warn] [pid 30868] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 13:40:57.914310 2024] [fastcgi:error] [pid 30868] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:40:57.914355 2024] [fastcgi:error] [pid 30868] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:40:57.915669 2024] [:notice] [pid 31915] FastCGI: process manager initialized (pid 31915)
+[Thu Oct 10 13:40:57.918741 2024] [mpm_prefork:notice] [pid 30868] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 13:40:57.918787 2024] [core:notice] [pid 30868] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 13:45:25.722101 2024] [fastcgi:error] [pid 31918] (61)Connection refused: [client 127.0.0.1:57240] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/
+[Thu Oct 10 13:45:25.722231 2024] [fastcgi:error] [pid 31918] [client 127.0.0.1:57240] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/
+[Thu Oct 10 13:45:41.660108 2024] [fastcgi:error] [pid 31920] (61)Connection refused: [client 127.0.0.1:11961] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:45:41.660199 2024] [fastcgi:error] [pid 31920] [client 127.0.0.1:11961] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:46:24.172405 2024] [fastcgi:error] [pid 33212] (61)Connection refused: [client 127.0.0.1:38277] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:46:24.172496 2024] [fastcgi:error] [pid 33212] [client 127.0.0.1:38277] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:47:20.934143 2024] [fastcgi:error] [pid 31917] (61)Connection refused: [client 127.0.0.1:26361] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:47:20.934238 2024] [fastcgi:error] [pid 31917] [client 127.0.0.1:26361] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:48:04.200735 2024] [fastcgi:error] [pid 33210] (61)Connection refused: [client 127.0.0.1:14056] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:48:04.200851 2024] [fastcgi:error] [pid 33210] [client 127.0.0.1:14056] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:49:14.753261 2024] [fastcgi:error] [pid 33212] (61)Connection refused: [client 127.0.0.1:18622] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:49:14.753352 2024] [fastcgi:error] [pid 33212] [client 127.0.0.1:18622] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:21.057420 2024] [fastcgi:error] [pid 31917] (61)Connection refused: [client 127.0.0.1:59627] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:21.057527 2024] [fastcgi:error] [pid 31917] [client 127.0.0.1:59627] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:26.992926 2024] [fastcgi:error] [pid 31916] (61)Connection refused: [client 127.0.0.1:30913] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=4&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:26.993053 2024] [fastcgi:error] [pid 31916] [client 127.0.0.1:30913] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=4&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:36.003126 2024] [fastcgi:error] [pid 33210] (61)Connection refused: [client 127.0.0.1:37733] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=5&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:36.003215 2024] [fastcgi:error] [pid 33210] [client 127.0.0.1:37733] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=5&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:44.824811 2024] [fastcgi:error] [pid 33211] (61)Connection refused: [client 127.0.0.1:51928] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=-2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:50:44.824910 2024] [fastcgi:error] [pid 33211] [client 127.0.0.1:51928] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=-2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:51:47.509192 2024] [fastcgi:error] [pid 31918] (61)Connection refused: [client 127.0.0.1:20145] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:51:47.509275 2024] [fastcgi:error] [pid 31918] [client 127.0.0.1:20145] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 13:55:40.172453 2024] [mpm_prefork:notice] [pid 30868] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 13:55:45.443872 2024] [fastcgi:error] [pid 36404] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:55:45.444000 2024] [fastcgi:error] [pid 36404] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:55:45.469916 2024] [ssl:warn] [pid 36405] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 13:55:45.486217 2024] [fastcgi:error] [pid 36405] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:55:45.486280 2024] [fastcgi:error] [pid 36405] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:55:45.487297 2024] [:notice] [pid 36406] FastCGI: process manager initialized (pid 36406)
+[Thu Oct 10 13:55:45.490482 2024] [mpm_prefork:notice] [pid 36405] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 13:55:45.490532 2024] [core:notice] [pid 36405] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 13:56:57.142498 2024] [mpm_prefork:notice] [pid 36405] AH00169: caught SIGTERM, shutting down
+[Thu Oct 10 13:57:02.910200 2024] [fastcgi:error] [pid 36590] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:57:02.910329 2024] [fastcgi:error] [pid 36590] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:57:02.936576 2024] [ssl:warn] [pid 36591] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 13:57:02.953637 2024] [fastcgi:error] [pid 36591] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 13:57:02.953687 2024] [fastcgi:error] [pid 36591] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 13:57:02.955053 2024] [:notice] [pid 36592] FastCGI: process manager initialized (pid 36592)
+[Thu Oct 10 13:57:02.958334 2024] [mpm_prefork:notice] [pid 36591] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 13:57:02.958390 2024] [core:notice] [pid 36591] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 14:31:34.247988 2024] [mpm_prefork:notice] [pid 36591] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 14:31:34.283356 2024] [ssl:warn] [pid 36591] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 14:31:34.300097 2024] [fastcgi:error] [pid 36591] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 14:31:34.300143 2024] [fastcgi:error] [pid 36591] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 14:31:34.301468 2024] [:notice] [pid 45693] FastCGI: process manager initialized (pid 45693)
+[Thu Oct 10 14:31:34.304547 2024] [mpm_prefork:notice] [pid 36591] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 14:31:34.304585 2024] [core:notice] [pid 36591] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 14:33:22.839295 2024] [fastcgi:error] [pid 45695] (61)Connection refused: [client 127.0.0.1:43965] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/
+[Thu Oct 10 14:33:22.839394 2024] [fastcgi:error] [pid 45695] [client 127.0.0.1:43965] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/
+[Thu Oct 10 14:33:29.197199 2024] [mpm_prefork:notice] [pid 36591] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 14:33:29.240033 2024] [ssl:warn] [pid 36591] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 14:33:29.256719 2024] [fastcgi:error] [pid 36591] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 14:33:29.256776 2024] [fastcgi:error] [pid 36591] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 14:33:29.257979 2024] [:notice] [pid 45962] FastCGI: process manager initialized (pid 45962)
+[Thu Oct 10 14:33:29.260967 2024] [mpm_prefork:notice] [pid 36591] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 14:33:29.261004 2024] [core:notice] [pid 36591] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 14:33:31.901994 2024] [fastcgi:error] [pid 45963] (61)Connection refused: [client 127.0.0.1:34624] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 14:33:31.908514 2024] [fastcgi:error] [pid 45963] [client 127.0.0.1:34624] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 14:34:00.987863 2024] [fastcgi:error] [pid 45966] (61)Connection refused: [client 127.0.0.1:52289] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 14:34:00.987979 2024] [fastcgi:error] [pid 45966] [client 127.0.0.1:52289] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 14:35:10.248121 2024] [fastcgi:error] [pid 45964] (61)Connection refused: [client 127.0.0.1:40837] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 14:35:10.248212 2024] [fastcgi:error] [pid 45964] [client 127.0.0.1:40837] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Thu Oct 10 15:18:03.839025 2024] [mpm_prefork:notice] [pid 36591] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 15:18:03.879475 2024] [ssl:warn] [pid 36591] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 15:18:03.896505 2024] [fastcgi:error] [pid 36591] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 15:18:03.896575 2024] [fastcgi:error] [pid 36591] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 15:18:03.897911 2024] [:notice] [pid 53764] FastCGI: process manager initialized (pid 53764)
+[Thu Oct 10 15:18:03.901103 2024] [mpm_prefork:notice] [pid 36591] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 15:18:03.901150 2024] [core:notice] [pid 36591] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Thu Oct 10 15:18:53.307005 2024] [mpm_prefork:notice] [pid 36591] AH00173: SIGHUP received.  Attempting to restart
+[Thu Oct 10 15:18:53.355519 2024] [ssl:warn] [pid 36591] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 15:18:53.373008 2024] [fastcgi:error] [pid 36591] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Thu Oct 10 15:18:53.373099 2024] [fastcgi:error] [pid 36591] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Thu Oct 10 15:18:53.374467 2024] [:notice] [pid 53843] FastCGI: process manager initialized (pid 53843)
+[Thu Oct 10 15:18:53.377485 2024] [mpm_prefork:notice] [pid 36591] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Oct 10 15:18:53.377544 2024] [core:notice] [pid 36591] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Fri Oct 11 05:00:00.275134 2024] [mpm_prefork:notice] [pid 36591] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 00:30:00.595521 2024] [fastcgi:error] [pid 33411] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 00:30:00.598962 2024] [fastcgi:error] [pid 33411] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 00:30:00.629566 2024] [ssl:warn] [pid 33413] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 00:30:00.648082 2024] [fastcgi:error] [pid 33413] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 00:30:00.648163 2024] [fastcgi:error] [pid 33413] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 00:30:00.649694 2024] [:notice] [pid 33414] FastCGI: process manager initialized (pid 33414)
+[Mon Oct 14 00:30:00.653125 2024] [mpm_prefork:notice] [pid 33413] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 00:30:00.653189 2024] [core:notice] [pid 33413] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 00:34:09.000663 2024] [fastcgi:error] [pid 33418] (61)Connection refused: [client 127.0.0.1:64129] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/
+[Mon Oct 14 00:34:09.014947 2024] [fastcgi:error] [pid 33418] [client 127.0.0.1:64129] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/
+[Mon Oct 14 00:34:28.837840 2024] [fastcgi:error] [pid 33656] (61)Connection refused: [client 127.0.0.1:16620] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Mon Oct 14 00:34:28.838032 2024] [fastcgi:error] [pid 33656] [client 127.0.0.1:16620] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/?select=-3&y-value=2&select=1&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Mon Oct 14 00:47:28.928855 2024] [fastcgi:error] [pid 33417] (61)Connection refused: [client 127.0.0.1:38173] FastCGI: failed to connect to server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar": connect() failed, referer: http://localhost:39874/
+[Mon Oct 14 00:47:28.955181 2024] [fastcgi:error] [pid 33417] [client 127.0.0.1:38173] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:39874/
+[Mon Oct 14 05:00:00.195379 2024] [mpm_prefork:notice] [pid 33413] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 18:28:34.914774 2024] [fastcgi:error] [pid 68340] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:28:34.927680 2024] [fastcgi:error] [pid 68340] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:28:34.959081 2024] [ssl:warn] [pid 68341] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 18:28:34.977007 2024] [fastcgi:error] [pid 68341] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:28:34.977096 2024] [fastcgi:error] [pid 68341] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:28:34.978518 2024] [:notice] [pid 68342] FastCGI: process manager initialized (pid 68342)
+[Mon Oct 14 18:28:34.981820 2024] [mpm_prefork:notice] [pid 68341] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 18:28:34.981889 2024] [core:notice] [pid 68341] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 18:28:59.609521 2024] [mpm_prefork:notice] [pid 68341] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 18:29:03.568645 2024] [fastcgi:error] [pid 68366] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:29:03.568774 2024] [fastcgi:error] [pid 68366] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:29:03.599609 2024] [ssl:warn] [pid 68367] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 18:29:03.617051 2024] [fastcgi:error] [pid 68367] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:29:03.617100 2024] [fastcgi:error] [pid 68367] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:29:03.618440 2024] [:notice] [pid 68368] FastCGI: process manager initialized (pid 68368)
+[Mon Oct 14 18:29:03.621711 2024] [mpm_prefork:notice] [pid 68367] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 18:29:03.621755 2024] [core:notice] [pid 68367] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 18:32:45.855810 2024] [:error] [pid 68372] [client 127.0.0.1:25594] FastCGI: comm with server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar" aborted: protocol error: invalid version: 72 != FCGI_VERSION(1), referer: http://localhost:8080/
+[Mon Oct 14 18:32:45.855889 2024] [fastcgi:error] [pid 68372] [client 127.0.0.1:25594] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:8080/
+[Mon Oct 14 18:33:46.315887 2024] [:error] [pid 69046] [client 127.0.0.1:43631] FastCGI: comm with server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar" aborted: protocol error: invalid version: 72 != FCGI_VERSION(1), referer: http://localhost:8080/?select=-3&y-value=2&select=2&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Mon Oct 14 18:33:46.315958 2024] [fastcgi:error] [pid 69046] [client 127.0.0.1:43631] FastCGI: incomplete headers (0 bytes) received from server "/home/studs/s290102/httpd-root/fcgi-bin/server.jar", referer: http://localhost:8080/?select=-3&y-value=2&select=2&submit-btn=%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D1%82%D1%8C
+[Mon Oct 14 18:52:23.883434 2024] [mpm_prefork:notice] [pid 68367] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 18:52:25.131919 2024] [fastcgi:error] [pid 72167] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:52:25.131949 2024] [fastcgi:error] [pid 72167] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:52:26.188875 2024] [ssl:warn] [pid 72168] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 18:52:26.206940 2024] [fastcgi:error] [pid 72168] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 18:52:26.207005 2024] [fastcgi:error] [pid 72168] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 18:52:26.208450 2024] [:notice] [pid 72169] FastCGI: process manager initialized (pid 72169)
+[Mon Oct 14 18:52:26.211672 2024] [mpm_prefork:notice] [pid 72168] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 18:52:26.211725 2024] [core:notice] [pid 72168] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 19:08:15.947391 2024] [mpm_prefork:notice] [pid 72168] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 19:08:17.468391 2024] [fastcgi:error] [pid 73985] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:08:17.468425 2024] [fastcgi:error] [pid 73985] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:08:17.499791 2024] [ssl:warn] [pid 73986] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 19:08:17.517242 2024] [fastcgi:error] [pid 73986] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:08:17.517293 2024] [fastcgi:error] [pid 73986] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:08:17.518652 2024] [:notice] [pid 73987] FastCGI: process manager initialized (pid 73987)
+[Mon Oct 14 19:08:17.521913 2024] [mpm_prefork:notice] [pid 73986] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 19:08:17.521969 2024] [core:notice] [pid 73986] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 19:31:16.440306 2024] [mpm_prefork:notice] [pid 73986] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 19:31:18.045495 2024] [fastcgi:error] [pid 77846] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:31:18.045538 2024] [fastcgi:error] [pid 77846] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:31:18.078710 2024] [ssl:warn] [pid 77847] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 19:31:18.096592 2024] [fastcgi:error] [pid 77847] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:31:18.096642 2024] [fastcgi:error] [pid 77847] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:31:18.097977 2024] [:notice] [pid 77848] FastCGI: process manager initialized (pid 77848)
+[Mon Oct 14 19:31:18.101310 2024] [mpm_prefork:notice] [pid 77847] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 19:31:18.101361 2024] [core:notice] [pid 77847] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 19:33:47.095328 2024] [mpm_prefork:notice] [pid 77847] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 19:34:09.284709 2024] [fastcgi:error] [pid 78138] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:34:09.284745 2024] [fastcgi:error] [pid 78138] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:34:09.318755 2024] [ssl:warn] [pid 78139] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 19:34:09.336770 2024] [fastcgi:error] [pid 78139] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:34:09.336833 2024] [fastcgi:error] [pid 78139] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:34:09.338271 2024] [:notice] [pid 78140] FastCGI: process manager initialized (pid 78140)
+[Mon Oct 14 19:34:09.341543 2024] [mpm_prefork:notice] [pid 78139] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 19:34:09.341613 2024] [core:notice] [pid 78139] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
+[Mon Oct 14 19:45:54.683215 2024] [mpm_prefork:notice] [pid 78139] AH00169: caught SIGTERM, shutting down
+[Mon Oct 14 19:45:57.636855 2024] [fastcgi:error] [pid 79650] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:45:57.636906 2024] [fastcgi:error] [pid 79650] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:45:57.668893 2024] [ssl:warn] [pid 79651] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 19:45:57.686244 2024] [fastcgi:error] [pid 79651] (13)Permission denied: FastCGI: doesn't exist and can't be created: Permission denied
+[Mon Oct 14 19:45:57.686310 2024] [fastcgi:error] [pid 79651] (2)No such file or directory: FastCGI: can't create dynamic directory "/var/run/fastcgi/dynamic": doesn't exist and can't be created: No such file or directory
+[Mon Oct 14 19:45:57.687369 2024] [:notice] [pid 79652] FastCGI: process manager initialized (pid 79652)
+[Mon Oct 14 19:45:57.690546 2024] [mpm_prefork:notice] [pid 79651] AH00163: Apache/2.4.62 (FreeBSD) OpenSSL/3.0.14 PHP/8.2.22 mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Oct 14 19:45:57.690603 2024] [core:notice] [pid 79651] AH00094: Command line: 'httpd -f /home/studs/s290102/httpd-root/conf/httpd.conf'
